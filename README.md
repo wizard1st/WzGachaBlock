@@ -1,9 +1,8 @@
-# Fabric Example Mod
+# WzGacha Block
 
 ## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
+look at https://www.curseforge.com/minecraft/mc-mods/wzgacha
 ## License
-
+Wizard1st
+and
 This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
