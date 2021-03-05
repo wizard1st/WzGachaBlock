@@ -1,0 +1,8 @@
+{
+	"block.wzgacha.gacha_block" = "Gacha Machine",
+	"item.wzgacha.kak_coin" = "Noob Coin",
+	"item.wzgacha.low_coin" = "Low Coin",
+	"item.wzgacha.mid_coin" = "Mid Coin",
+	"item.wzgacha.high_coin" = "High Coin",
+	"item.wzgacha.max_coin" = "Premium Coin"
+}
